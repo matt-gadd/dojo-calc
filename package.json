@@ -6,6 +6,7 @@
   "repository": {
     "github": "https://github.com/jamesmilneruk/dojo-calc"
   },
+  "main": "src/main.ts",
   "scripts": {
     "build": "dojo build",
     "watch": "dojo build --watch",
